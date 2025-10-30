@@ -8,7 +8,7 @@ and explore **AI/ML** applications for smarter embedded systems.
 
 ### 🧰 Tools & Technologies
 - **Languages:** Python, C++, QML  
-- **Frameworks:** Qt, PySide, PyQt, TensorFlow  
+- **Frameworks:** Qt, PySide, TensorFlow  
 - **Skills:** Automation scripting, Machine Learning, Robotics integration  
 
 ---
