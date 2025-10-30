@@ -19,4 +19,4 @@ and explore **AI/ML** applications for smarter embedded systems.
 
 ---
 
-📫 **Contact:** [your.email@example.com](mailto:your.email@example.com)
+📫 **Contact:** [andifonkanekaidem@gmail.com](mailto:andifonkanekaidem@gmail.com)
