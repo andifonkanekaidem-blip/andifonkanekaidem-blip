@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Hi, I'm Andifonkan Ekaidem
 
-<!--
-**andifonkanekaidem-blip/andifonkanekaidem-blip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💡 **Mechatronics Engineer** passionate about automation and intelligent systems.  
+💻 I develop automation scripts with **Python**, build responsive UIs using **Qt**,  
+and explore **AI/ML** applications for smarter embedded systems.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧰 Tools & Technologies
+- **Languages:** Python, C++, QML  
+- **Frameworks:** Qt, PySide, PyQt, TensorFlow  
+- **Skills:** Automation scripting, Machine Learning, Robotics integration  
+
+---
+
+### 🚀 Current Focus
+- Building a **Student Portal** using Qt and JSON  
+- Learning AI integration for Mechatronics systems  
+
+---
+
+📫 **Contact:** [your.email@example.com](mailto:your.email@example.com)
