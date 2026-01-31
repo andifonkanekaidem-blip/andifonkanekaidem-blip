@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Andifonkan Ekaidem
 
-💡 **Mechatronics Engineer** passionate about automation and intelligent systems.  
+💡 **Mechatronics Engineering Student** passionate about automation and intelligent systems.  
 💻 I develop automation scripts with **Python**, build responsive UIs using **Qt**,  
 and explore **AI/ML** applications for smarter embedded systems.
 
