@@ -9,12 +9,12 @@ and explore **AI/ML** applications for smarter embedded systems.
 ### 🧰 Tools & Technologies
 - **Languages:** Python, C++, QML  
 - **Frameworks:** Qt, PySide, TensorFlow  
-- **Skills:** Automation scripting, Machine Learning, Robotics integration  
+- **Skills:** AI Agents DEsign, Machine Learning, Robotics integration  
 
 ---
 
 ### 🚀 Current Focus
-- Building a **Student Portal** using Qt and JSON  
+- Building AI Agents 
 - Learning AI integration for Mechatronics systems  
 
 ---
